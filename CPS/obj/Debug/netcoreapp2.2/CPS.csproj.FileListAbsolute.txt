@@ -1,0 +1,16 @@
+D:\CPS\cps\obj\Debug\netcoreapp2.2\CPS.csprojAssemblyReference.cache
+D:\CPS\cps\obj\Debug\netcoreapp2.2\CPS.RazorAssemblyInfo.cache
+D:\CPS\cps\obj\Debug\netcoreapp2.2\CPS.RazorAssemblyInfo.cs
+D:\CPS\cps\obj\Debug\netcoreapp2.2\CPS.AssemblyInfoInputs.cache
+D:\CPS\cps\obj\Debug\netcoreapp2.2\CPS.AssemblyInfo.cs
+D:\CPS\cps\bin\Debug\netcoreapp2.2\CPS.deps.json
+D:\CPS\cps\bin\Debug\netcoreapp2.2\CPS.runtimeconfig.json
+D:\CPS\cps\bin\Debug\netcoreapp2.2\CPS.runtimeconfig.dev.json
+D:\CPS\cps\bin\Debug\netcoreapp2.2\CPS.dll
+D:\CPS\cps\bin\Debug\netcoreapp2.2\CPS.pdb
+D:\CPS\cps\obj\Debug\netcoreapp2.2\CPS.RazorTargetAssemblyInfo.cache
+D:\CPS\cps\obj\Debug\netcoreapp2.2\CPS.dll
+D:\CPS\cps\obj\Debug\netcoreapp2.2\CPS.pdb
+D:\CPS\CPS\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\CPS\CPS\bin\Debug\netcoreapp2.2\appsettings.json
+D:\CPS\CPS\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
